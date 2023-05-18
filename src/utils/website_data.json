@@ -1,0 +1,12 @@
+{
+  "websites": [
+    {
+      "url": "https://www.google.com",
+      "title": "Google"
+    },
+    {
+      "url": "https://www.linkedin.com",
+      "title": "LinkedIn: Log In or Sign Up"
+    }
+  ]
+}
